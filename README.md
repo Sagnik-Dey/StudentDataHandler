@@ -12,7 +12,7 @@ This is a simple C++ programme which stores and fetch student information from a
 ## How to use
 * Intsall C++ compiler of mingw
 * Set the path in environment variables
-* Clone the repositary
+* Clone the repository
 * Run the programm by -
 ```bash
 cd src
