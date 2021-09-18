@@ -1,6 +1,6 @@
 # Simple Student Data Handler
 
-This is a simple C++ programme which stores and fetch student information from a text file
+This is a simple C++ program which stores and fetch student information from a text file
 
 ## Some Screenshots 
 
